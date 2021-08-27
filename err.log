@@ -1,0 +1,9 @@
+(node:30120) [MONGODB DRIVER] DeprecationWarning: The option `reconnectTries` is incompatible with the unified topology, please read more by visiting http://bit.ly/2D8WfT6
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:30120) [MONGODB DRIVER] DeprecationWarning: The option `reconnectInterval` is incompatible with the unified topology, please read more by visiting http://bit.ly/2D8WfT6
+(node:22116) [MONGODB DRIVER] DeprecationWarning: The option `reconnectTries` is incompatible with the unified topology, please read more by visiting http://bit.ly/2D8WfT6
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:22116) [MONGODB DRIVER] DeprecationWarning: The option `reconnectInterval` is incompatible with the unified topology, please read more by visiting http://bit.ly/2D8WfT6
+(node:3580) [MONGODB DRIVER] DeprecationWarning: The option `reconnectTries` is incompatible with the unified topology, please read more by visiting http://bit.ly/2D8WfT6
+(Use `node --trace-deprecation ...` to show where the warning was created)
+(node:3580) [MONGODB DRIVER] DeprecationWarning: The option `reconnectInterval` is incompatible with the unified topology, please read more by visiting http://bit.ly/2D8WfT6

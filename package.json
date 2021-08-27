@@ -1,0 +1,19 @@
+{
+  "name": "databaseconnector",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "pm2 start index.js --name dbConnector -o out.log -e err.log",
+    "stop": "pm2 stop dbConnector"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^9.0.2",
+    "mongoose": "^5.12.9",
+    "pm2": "^4.5.6",
+    "seneca": "^3.23.3"
+  }
+}
